@@ -6,7 +6,7 @@ tel (505) 480-3269
   
 jillnagya@gmail.com  
 [http://www.jillnagya.com](http://www.jillnagya.com)  
-![I'm on Twitter](https://cloud.githubusercontent.com/assets/11022232/10561570/5adc29ce-74e3-11e5-93d1-aca20f6c346e.png?raw=true =20x) @jillnagya  
+![I'm on Twitter](https://cloud.githubusercontent.com/assets/11022232/10561570/5adc29ce-74e3-11e5-93d1-aca20f6c346e.png =20x) @jillnagya  
 
 
   
