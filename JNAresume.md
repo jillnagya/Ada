@@ -6,7 +6,7 @@ tel (505) 480-3269
   
 jillnagya@gmail.com  
 [http://www.jillnagya.com](http://www.jillnagya.com)  
-![I'm on Twitter](https://cloud.githubusercontent.com/assets/11022232/10561570/5adc29ce-74e3-11e5-93d1-aca20f6c346e.png =20x) @jillnagya  
+![I'm on Twitter](https://cloud.githubusercontent.com/assets/11022232/10561570/5adc29ce-74e3-11e5-93d1-aca20f6c346e.png?raw=true | height=20) @jillnagya  
 
 
   
@@ -141,7 +141,7 @@ Summer 2011 | *KA-1: Records Management Overview, KA-5: Asset and Risk Managemen
 **Iktsuarpok Photograph Archive (IPA)** - Ongoing  
 [http://iparchives.tumblr.com](http://iparchives.tumblr.com)
 
->Genealogy-focused online repository of digitized IPA-owned portraits that have identifiable information, presented alongside documentary (record-based) confirmation and tagged with geographical, chronological, and subject-based description according to a pre-established standard, with the goal of reuniting genealogists with archival-quality images of their ancestors
+Genealogy-focused online repository of digitized IPA-owned portraits that have identifiable information, presented alongside documentary (record-based) confirmation and tagged with geographical, chronological, and subject-based description according to a pre-established standard, with the goal of reuniting genealogists with archival-quality images of their ancestors
 
 
 ***
