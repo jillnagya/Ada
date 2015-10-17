@@ -111,16 +111,30 @@ As a first-year MA candidate and through firm belief in the power of public arch
 ***
 ### Education  
 Year | Degree  
-:--: | :----:  
-2013 | Master of Arts in History specializing in Archives and Records Management
-Western Washington University, Bellingham, WA 98225  
+:--: | :----  
+2013 | *Master of Arts* in History specializing in Archives and Records Management: Western Washington University, Bellingham, WA 
+2010 | *Bachelor of Arts* in History with a minor in English (*summa cum laude*): University of New Mexico, Albuquerque, NM
 
 ***
 ### Other Projects
 
+**Iktsuarpok Photograph Archive (IPA)** - Ongoing  
+[http://iparchives.tumblr.com](http://iparchives.tumblr.com)
+
+>Genealogy-focused online repository of digitized IPA-owned portraits that have identifiable information, presented alongside documentary (record-based) confirmation and tagged with geographical, chronological, and subject-based description according to a pre-established standard, with the goal of reuniting genealogists with archival-quality images of their ancestors
+
 
 ***
-### Training
+### Training and Continuing Education
+
+Date | Course
+:--: | :-----
+Oct 2015 | *Digital Forensics: Advanced*: Society of American Archivists - Seattle, WA - 16 hours
+Apr 2015 | *Digital Forensics: Fundamentals*: Society of American Archivists - Seattle, WA - 8 hours
+Apr 2015 | *Programming for Everybody (Python)*: University of Michigan - Coursera - 11 weeks -- [Verified Certificate with distinction](https://www.coursera.org/account/accomplishments/certificate/E9XPPBFUGD)
+Sep 2014 | *Metadata: Organizing and Discovering Information*: University of North Carolina, Chapel Hill - Coursera - 8 weeks -- [Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/MDTQ3G2ETU)
+Jul 2014 | *Accessioning and Ingest of Electronic Records*: Society of American Archivists - Seattle, WA - 8 hours
+Summer 2011 | National Archives and Records Administration workshops: *KA-1: Records Management Overview, KA-5: Asset and Risk Management,* and *KA-6: Records Management Program Development*
 
 
 ***
