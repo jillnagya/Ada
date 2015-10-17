@@ -127,14 +127,14 @@ Year | Degree
 ***
 ### Training and Continuing Education
 
-Date | Course
-:--: | :-----
-Oct 2015 | *Digital Forensics: Advanced*: Society of American Archivists - Seattle, WA - 16 hours
-Apr 2015 | *Digital Forensics: Fundamentals*: Society of American Archivists - Seattle, WA - 8 hours
-Apr 2015 | *Programming for Everybody (Python)*: University of Michigan - Coursera - 11 weeks -- [Verified Certificate with distinction](https://www.coursera.org/account/accomplishments/certificate/E9XPPBFUGD)
-Sep 2014 | *Metadata: Organizing and Discovering Information*: University of North Carolina, Chapel Hill - Coursera - 8 weeks -- [Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/MDTQ3G2ETU)
-Jul 2014 | *Accessioning and Ingest of Electronic Records*: Society of American Archivists - Seattle, WA - 8 hours
-Summer 2011 | National Archives and Records Administration workshops: *KA-1: Records Management Overview, KA-5: Asset and Risk Management,* and *KA-6: Records Management Program Development*
+Date | Course and Sponsor | Location | Duration
+:--: | :-----: | :---: | :---:
+Oct 2015 | *Digital Forensics: Advanced*: Society of American Archivists | Seattle, WA | 16 hours
+Apr 2015 | *Digital Forensics: Fundamentals*: Society of American Archivists | Seattle, WA | 8 hours
+Apr 2015 | *Programming for Everybody (Python)*: University of Michigan -- [Verified Certificate with distinction](https://www.coursera.org/account/accomplishments/certificate/E9XPPBFUGD) | Coursera | 11 weeks 
+Sep 2014 | *Metadata: Organizing and Discovering Information*: University of North Carolina, Chapel Hill --[Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/MDTQ3G2ETU) | Coursera | 8 weeks 
+Jul 2014 | *Accessioning and Ingest of Electronic Records*: Society of American Archivists | Seattle, WA | 8 hours
+Summer 2011 | *KA-1: Records Management Overview, KA-5: Asset and Risk Management,* and *KA-6: Records Management Program Development* | National Archives and Records Administration | 32 hours
 
 
 ***
