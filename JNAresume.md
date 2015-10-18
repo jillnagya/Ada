@@ -69,7 +69,7 @@ Helping to sustain such an important cultural project was personally fulfilling,
 #### National Archives and Records Administration
 ##### Jun 2012 - Mar 2013
 
-Thrilled to return to NARA as an Archives Aide, I gained valuable preservation and description experience while supporting career service staff in reference services and meeting processing goals. I actively sought additional projects from updating finding aids to staffing the reference desk, maintaining a secure, accessible environment for archival research. My duties allowed me to become knowledgeable about several Federal record groups, as well as to spread my love of history and research through small outreach opportunities.  
+Returning to NARA as an Archives Aide, I gained valuable preservation and description experience while supporting career service staff in reference services and meeting processing goals. I actively sought additional projects from updating finding aids to staffing the reference desk, maintaining a secure, accessible environment for archival research. My duties allowed me to become knowledgeable about several Federal record groups, as well as to spread my love of history and research through small outreach opportunities.  
 
 * Assisted with reference services and helped create exhibits  
 * Maintained a database of and performed item-level preservation work on over 8100 photographic negatives of the Department of Energy’s DuPont Collection of the Manhattan Project’s Hanford Engineering Works, 1943-1946  
@@ -83,7 +83,7 @@ Thrilled to return to NARA as an Archives Aide, I gained valuable preservation a
 
 Seizing the opportunity to complete an internship within sight of the Roosevelt Arch, I supported the mission of the Research Center by performing both face-to-face and distance reference services, providing digital scans of historically meaningful records such as letters written by Theodore Roosevelt, and integrating processing and online outreach using photographs of the destruction by fire of the Canyon Hotel.
 
-* Arranged and described the John Burger Photographs collection, using re:Discovery ICMS to generate a finding aid [available on through the National Park Service](http://www.nps.gov/yell/learn/historyculture/upload/john_burger_photographs.pdf)  
+* Arranged and described the John Burger Photographs collection, using re:Discovery ICMS to generate a finding aid [available through the National Park Service](http://www.nps.gov/yell/learn/historyculture/upload/john_burger_photographs.pdf)  
 * Processed 84 linear feet of the Park Facilities series  
 * To generate interest and publicity, wrote blog posts on the Canyon Hotel, [Cuthbert the National Park Pup](http://www.nps.gov/yell/blogs/Cuthbert-the-National-Park-Pup.htm), and noteworthy park correspondence  
 * Assisted researchers in the reading room and via email to answer questions ranging from the historical to the geological  
