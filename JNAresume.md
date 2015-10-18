@@ -113,7 +113,7 @@ During my time as an intern at NARA, I also successfully lobbied for greater soc
 Year | Degree  
 :--: | :----  
 2013 | *Master of Arts* in History specializing in Archives and Records Management: Western Washington University, Bellingham, WA 
-2010 | *Bachelor of Arts* in History with a minor in English (*summa cum laude*): University of New Mexico, Albuquerque, NM
+2010 | *Bachelor of Arts* in History with a minor in English *(summa cum laude)*: University of New Mexico, Albuquerque, NM
 
 
 ***
