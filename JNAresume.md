@@ -20,7 +20,7 @@ An alumna of the Western Washington University Master of Arts archives program, 
 - Seeks opportunities to combine critical thinking and creativity with well-constructed, elegant code to solve problems   
 - Self-motivated and detail-oriented optimist who sees obstacles as opportunities for growth and learning
 - Wide-ranging technological experience with various operating systems and software, including  
-    - basic Python and JavaScript;  
+    - Basic Python and JavaScript;  
     - Encoded Archival Description (EAD), an XML standard that encourages open, linked archival finding aids;  
     - Library of Congress Subject Headings (LCSH), a controlled vocabulary of subjects for use in standardized archival description;  
     - Machine-Readable Cataloging (MARC), the early form of encoding used by libraries; and   
