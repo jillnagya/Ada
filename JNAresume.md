@@ -31,8 +31,7 @@ An alumna of the Western Washington University Master of Arts archives program, 
 
 
 
-#### Records Management Specialist  
-#### King County Road Services Map and Records Center
+#### Records Management Specialist - King County Road Services Map and Records Center
 ##### Apr 2013 - present
 
 
@@ -54,8 +53,7 @@ As the primary records coordinator for the Road Services Division, I process and
 
 
 
-#### Intern
-#### [Densho: The Japanese American Legacy Project](http://www.densho.org)
+#### Intern - [Densho: The Japanese American Legacy Project](http://www.densho.org)
 ##### Mar 2013 - Apr 2013
 
 Helping to sustain such an important cultural project was personally fulfilling, and the experience I gained in creating metadata according to a controlled vocabulary and cataloging scanned images of very personal documents and photographs intensified my belief in quality digitizing, accurate cataloging, and increased accessibility of images as critical to community, commemoration, and cultural knowledge.
@@ -65,8 +63,7 @@ Helping to sustain such an important cultural project was personally fulfilling,
 
 
 
-#### Archives Aide - Student Employee
-#### National Archives and Records Administration
+#### Archives Aide (Student Employee) - National Archives and Records Administration
 ##### Jun 2012 - Mar 2013
 
 Returning to NARA as an Archives Aide, I gained valuable preservation and description experience while supporting career service staff in reference services and meeting processing goals. I actively sought additional projects from updating finding aids to staffing the reference desk, maintaining a secure, accessible environment for archival research. My duties allowed me to become knowledgeable about several Federal record groups, as well as to spread my love of history and research through small outreach opportunities.  
@@ -77,8 +74,7 @@ Returning to NARA as an Archives Aide, I gained valuable preservation and descri
   
 
 
-#### Archives Technician
-#### Yellowstone National Park
+#### Archives Technician - Yellowstone National Park
 ##### Oct 2012 - Dec 2012
 
 Seizing the opportunity to complete an internship within sight of the Roosevelt Arch, I supported the mission of the Research Center by performing both face-to-face and distance reference services, providing digital scans of historically meaningful records such as letters written by Theodore Roosevelt, and integrating processing and online outreach using photographs of the destruction by fire of the Canyon Hotel.
@@ -90,14 +86,12 @@ Seizing the opportunity to complete an internship within sight of the Roosevelt 
 
 
 
-#### Graduate Assistant
-#### Western Washington University History Department
+#### Graduate Assistant - Western Washington University History Department
 ##### Sep 2010 - Mar 2012
 * Graded exams and research papers for History 103 (US History through 1865) and History 104 (US History 1865 - Present) under the supervision of Dr. Marc Richards.   
 
 
-#### Intern/Volunteer
-#### National Archives and Records Administration
+#### Intern/Volunteer - National Archives and Records Administration
 ##### Mar 2011 - Aug 2011
 
 As a first-year MA candidate and through firm belief in the power of public archives, I volunteered at the National Archives and Records Administration, working either individually or as part of a team to break through processing goals and make more records accessible to researchers. I gained knowledge about series as diverse as court exhibits (RG 21), Forest Service records (RG 95), and education records from the Bureau of Indian Affairs (RG 75).
