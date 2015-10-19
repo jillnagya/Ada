@@ -4,9 +4,10 @@
 
 tel (505) 480-3269  
   
->jillnagya@gmail.com  
->http://www.jillnagya.com  
->![](https://cloud.githubusercontent.com/assets/11022232/10561570/5adc29ce-74e3-11e5-93d1-aca20f6c346e.png =20x) @jillnagya  
+[jillnagya@gmail.com](mailto:jillnagya@gmail.com)  
+[http://www.jillnagya.com](http://www.jillnagya.com)  
+![Catch me on Twitter](https://cloud.githubusercontent.com/assets/11022232/10562119/9277050e-74ff-11e5-920d-44b471d2b249.png) [@jillnagya](https://twitter.com/jillnagya)  
+
 
     
 ### Essay Answers
