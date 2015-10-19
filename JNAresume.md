@@ -56,8 +56,6 @@ As the primary records coordinator for the Road Services Division, I process and
 #### Intern - [Densho: The Japanese American Legacy Project](http://www.densho.org)
 ##### Mar 2013 - Apr 2013
 
-Helping to sustain such an important cultural project was personally fulfilling, and the experience I gained in creating metadata according to a controlled vocabulary and cataloging scanned images of very personal documents and photographs intensified my belief in quality digitizing, accurate cataloging, and increased accessibility of images as critical to community, commemoration, and cultural knowledge.
-
 * Digitally processed and cleaned up thousands of scanned images of journal pages written in Japanese between the 1930s and the 1970s  
 * Cataloged documents, diaries, and family photo album images for addition to Densho’s online repository, attributing appropriate metadata according to a controlled vocabulary  
 
@@ -66,8 +64,7 @@ Helping to sustain such an important cultural project was personally fulfilling,
 #### Archives Aide (Student Employee) - National Archives and Records Administration
 ##### Jun 2012 - Mar 2013
 
-Returning to NARA as an Archives Aide, I gained valuable preservation and description experience while supporting career service staff in reference services and meeting processing goals. I actively sought additional projects from updating finding aids to staffing the reference desk, maintaining a secure, accessible environment for archival research. My duties allowed me to become knowledgeable about several Federal record groups, as well as to spread my love of history and research through small outreach opportunities.  
-
+* Processed records as a "lone arranger" and as part of a team
 * Assisted with reference services and helped create exhibits  
 * Maintained a database of and performed item-level preservation work on over 8100 photographic negatives of the Department of Energy’s DuPont Collection of the Manhattan Project’s Hanford Engineering Works, 1943-1946  
 * Maintained a database of over 400 drawings for the Army Corps of Engineers, updating location and condition information while humidifying, flattening, and re-housing each drawing, totaling over 2300 cu. ft.  
@@ -76,8 +73,6 @@ Returning to NARA as an Archives Aide, I gained valuable preservation and descri
 
 #### Archives Technician - Yellowstone National Park
 ##### Oct 2012 - Dec 2012
-
-Seizing the opportunity to complete an internship within sight of the Roosevelt Arch, I supported the mission of the Research Center by performing both face-to-face and distance reference services, providing digital scans of historically meaningful records such as letters written by Theodore Roosevelt, and integrating processing and online outreach using photographs of the destruction by fire of the Canyon Hotel.
 
 * Arranged and described the John Burger Photographs collection, using re:Discovery ICMS to generate a finding aid [available through the National Park Service](http://www.nps.gov/yell/learn/historyculture/upload/john_burger_photographs.pdf)  
 * Processed 84 linear feet of the Park Facilities series  
@@ -94,9 +89,7 @@ Seizing the opportunity to complete an internship within sight of the Roosevelt 
 #### Intern/Volunteer - National Archives and Records Administration
 ##### Mar 2011 - Aug 2011
 
-As a first-year MA candidate and through firm belief in the power of public archives, I volunteered at the National Archives and Records Administration, working either individually or as part of a team to break through processing goals and make more records accessible to researchers. I gained knowledge about series as diverse as court exhibits (RG 21), Forest Service records (RG 95), and education records from the Bureau of Indian Affairs (RG 75).
-
-During my time as an intern at NARA, I also successfully lobbied for greater social media outreach to engage potential users of a new generation and to publicize new or newly-processed collections.
+During my time as an intern at NARA, I successfully lobbied for greater social media outreach to engage potential users of a new generation and to publicize new or newly-processed collections.
 
 * Appraised an accession of postmaster scrapbooks of newspaper clippings from Seattle and Washington state, dating to the early 20th century  
 * Processed the records of and wrote finding aids for:  
